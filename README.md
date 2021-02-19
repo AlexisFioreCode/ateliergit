@@ -7,3 +7,4 @@ Voici une présentation
 
 ## Un sous-titre de la branche dev
 
+Du texte qui transite par GitHub
